@@ -40,7 +40,7 @@ Trabajo sobre publicación de eventos, automatizaciones, carga de carreras, opti
 
 ---
 
-#### [cronometrar.ar](https://cronometrar.ar)
+#### [cronomet.ar](https://cronomet.ar/)
 
 Sistema de cronometraje digital para eventos deportivos.
 
